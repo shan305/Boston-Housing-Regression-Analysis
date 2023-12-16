@@ -1,0 +1,16 @@
+Linear Regression:
+Mean Squared Error: 24.291119474973847
+R-squared: 0.6687594935356276
+
+Decision Tree Regressor:
+Mean Squared Error: 10.97088235294118
+R-squared: 0.8503979764830004
+
+Random Forest Regressor:
+Mean Squared Error: 7.901513892156864
+R-squared: 0.8922527442109116
+The model has been saved to best_random_forest_model.joblib
+
+New Dataset Predictions:
+Mean Squared Error: 9.107405853447512
+R-squared: 0.8758088637874195
